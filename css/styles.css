@@ -1,5 +1,9 @@
 #walrus-showing {
-display: none;
+  display: none;
+}
+
+#giraffe {
+  display: none;
 }
 
 .clickable {
